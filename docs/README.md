@@ -1,2 +1,0 @@
-# Web
-Repository for my personal website
